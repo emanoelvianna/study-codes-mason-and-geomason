@@ -1,2 +1,2 @@
 # study-codes-mason-and-geomason
-study codes MASON and GeoMason
+Study codes MASON and GeoMason
